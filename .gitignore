@@ -23,3 +23,11 @@
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
+#IDE
+.vs/
+
+# Unwanted Files
+SampleScenes.meta
+SampleScenes/
+Standard Assets/
+Standard Assets.meta
