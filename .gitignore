@@ -25,6 +25,7 @@ sysinfo.txt
 
 #IDE
 .vs/
+.DS_Store
 
 # Unwanted Files
 SampleScenes.meta
