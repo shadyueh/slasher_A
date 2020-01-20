@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Stage0.unity
+    path: Assets/Adana/Scenes/Stage0.unity
     guid: d737a6ecdfd8244488b6d42a0adba638
   m_configObjects: {}
