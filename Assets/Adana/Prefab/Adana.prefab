@@ -105,8 +105,6 @@ GameObject:
   - component: {fileID: 3670680475113789931}
   - component: {fileID: 3670680475113789930}
   - component: {fileID: 3670680475113789929}
-  - component: {fileID: 3670680475113789928}
-  - component: {fileID: 3670680475113789927}
   m_Layer: 0
   m_Name: Adana
   m_TagString: Untagged
@@ -138,12 +136,12 @@ Rigidbody:
   m_GameObject: {fileID: 115795981927249392}
   serializedVersion: 2
   m_Mass: 1
-  m_Drag: 0
+  m_Drag: 8
   m_AngularDrag: 0.05
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 80
   m_CollisionDetection: 0
 --- !u!136 &3670680475113789930
 CapsuleCollider:
@@ -178,38 +176,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &3670680475113789928
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 115795981927249392}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ce7a80d520cacc042b5fe14f373d8173, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MovingTurnSpeed: 360
-  m_StationaryTurnSpeed: 180
-  m_JumpPower: 12
-  m_GravityMultiplier: 2
-  m_RunCycleLegOffset: 0.2
-  m_MoveSpeedMultiplier: 1
-  m_AnimSpeedMultiplier: 1
-  m_GroundCheckDistance: 0.1
---- !u!114 &3670680475113789927
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 115795981927249392}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a2950be6b0f8e46a3b9e82725c1b6367, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &262989408747285171
 GameObject:
   m_ObjectHideFlags: 0
