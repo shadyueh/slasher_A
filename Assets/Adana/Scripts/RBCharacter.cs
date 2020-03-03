@@ -13,8 +13,10 @@ public class RBCharacter : MonoBehaviour
 
     private Rigidbody _body;
     private Vector3 _inputs = Vector3.zero;
-    private bool _isGrounded = true;
+    private bool _isGrounded = false;
     private Transform _groundChecker;
+
+    [SerializeField] float _jumpPower = 12f;
 
     void Start()
     {
@@ -28,7 +30,8 @@ public class RBCharacter : MonoBehaviour
         _inputs = Vector3.zero;
         _inputs.x = Input.GetAxis("Horizontal");
         _inputs.z = Input.GetAxis("Vertical");
-        Debug.Log(_inputs);
+
+        Debug.Log("is Grounded? : "+_isGrounded);
 
         if (_inputs != Vector3.zero)
             transform.forward = _inputs;
@@ -49,5 +52,16 @@ public class RBCharacter : MonoBehaviour
     void FixedUpdate()
     {
         _body.MovePosition(_body.position + _inputs * Speed * Time.fixedDeltaTime);
+    }
+
+    void HandleGroundedMovement(bool crouch, bool jump)
+    {
+        // check whether conditions are right to allow a jump:
+        if (jump && !crouch )
+        {
+            // jump!
+            _body.velocity = new Vector3(_body.velocity.x, _jumpPower, _body.velocity.z);
+            _isGrounded = false;
+        }
     }
 }
