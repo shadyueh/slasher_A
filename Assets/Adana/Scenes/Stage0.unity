@@ -836,6 +836,7 @@ MonoBehaviour:
   Ground:
     serializedVersion: 2
     m_Bits: 256
+  _jumpPower: 12
 --- !u!4 &30391194 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4794414083626637631, guid: bf700fb8833ee4d0b9fe668f7531de9d,
@@ -24151,7 +24152,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &790886027
 Transform:
   m_ObjectHideFlags: 0
@@ -46031,7 +46032,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!64 &1446610166
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -63660,7 +63661,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1986042232
 Transform:
   m_ObjectHideFlags: 0
