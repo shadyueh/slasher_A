@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: cb05b309e4ffd6a44b66145ecf410aea
+timeCreated: 1580979809
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Walking2:Corpo_Adana
+    100004: Walking2:mixamorig:Head
+    100006: Walking2:mixamorig:HeadTop_End
+    100008: Walking2:mixamorig:Hips
+    100010: Walking2:mixamorig:LeftArm
+    100012: Walking2:mixamorig:LeftFoot
+    100014: Walking2:mixamorig:LeftForeArm
+    100016: Walking2:mixamorig:LeftHand
+    100018: Walking2:mixamorig:LeftHandIndex1
+    100020: Walking2:mixamorig:LeftHandIndex2
+    100022: Walking2:mixamorig:LeftHandIndex3
+    100024: Walking2:mixamorig:LeftHandIndex4
+    100026: Walking2:mixamorig:LeftHandMiddle1
+    100028: Walking2:mixamorig:LeftHandMiddle2
+    100030: Walking2:mixamorig:LeftHandMiddle3
+    100032: Walking2:mixamorig:LeftHandMiddle4
+    100034: Walking2:mixamorig:LeftHandPinky1
+    100036: Walking2:mixamorig:LeftHandPinky2
+    100038: Walking2:mixamorig:LeftHandPinky3
+    100040: Walking2:mixamorig:LeftHandPinky4
+    100042: Walking2:mixamorig:LeftHandRing1
+    100044: Walking2:mixamorig:LeftHandRing2
+    100046: Walking2:mixamorig:LeftHandRing3
+    100048: Walking2:mixamorig:LeftHandRing4
+    100050: Walking2:mixamorig:LeftHandThumb1
+    100052: Walking2:mixamorig:LeftHandThumb2
+    100054: Walking2:mixamorig:LeftHandThumb3
+    100056: Walking2:mixamorig:LeftHandThumb4
+    100058: Walking2:mixamorig:LeftLeg
+    100060: Walking2:mixamorig:LeftShoulder
+    100062: Walking2:mixamorig:LeftToe_End
+    100064: Walking2:mixamorig:LeftToeBase
+    100066: Walking2:mixamorig:LeftUpLeg
+    100068: Walking2:mixamorig:Neck
+    100070: Walking2:mixamorig:RightArm
+    100072: Walking2:mixamorig:RightFoot
+    100074: Walking2:mixamorig:RightForeArm
+    100076: Walking2:mixamorig:RightHand
+    100078: Walking2:mixamorig:RightHandIndex1
+    100080: Walking2:mixamorig:RightHandIndex2
+    100082: Walking2:mixamorig:RightHandIndex3
+    100084: Walking2:mixamorig:RightHandIndex4
+    100086: Walking2:mixamorig:RightHandMiddle1
+    100088: Walking2:mixamorig:RightHandMiddle2
+    100090: Walking2:mixamorig:RightHandMiddle3
+    100092: Walking2:mixamorig:RightHandMiddle4
+    100094: Walking2:mixamorig:RightHandPinky1
+    100096: Walking2:mixamorig:RightHandPinky2
+    100098: Walking2:mixamorig:RightHandPinky3
+    100100: Walking2:mixamorig:RightHandPinky4
+    100102: Walking2:mixamorig:RightHandRing1
+    100104: Walking2:mixamorig:RightHandRing2
+    100106: Walking2:mixamorig:RightHandRing3
+    100108: Walking2:mixamorig:RightHandRing4
+    100110: Walking2:mixamorig:RightHandThumb1
+    100112: Walking2:mixamorig:RightHandThumb2
+    100114: Walking2:mixamorig:RightHandThumb3
+    100116: Walking2:mixamorig:RightHandThumb4
+    100118: Walking2:mixamorig:RightLeg
+    100120: Walking2:mixamorig:RightShoulder
+    100122: Walking2:mixamorig:RightToe_End
+    100124: Walking2:mixamorig:RightToeBase
+    100126: Walking2:mixamorig:RightUpLeg
+    100128: Walking2:mixamorig:Spine
+    100130: Walking2:mixamorig:Spine1
+    100132: Walking2:mixamorig:Spine2
+    100134: Walking2:Olhos2
+    400000: //RootNode
+    400002: Walking2:Corpo_Adana
+    400004: Walking2:mixamorig:Head
+    400006: Walking2:mixamorig:HeadTop_End
+    400008: Walking2:mixamorig:Hips
+    400010: Walking2:mixamorig:LeftArm
+    400012: Walking2:mixamorig:LeftFoot
+    400014: Walking2:mixamorig:LeftForeArm
+    400016: Walking2:mixamorig:LeftHand
+    400018: Walking2:mixamorig:LeftHandIndex1
+    400020: Walking2:mixamorig:LeftHandIndex2
+    400022: Walking2:mixamorig:LeftHandIndex3
+    400024: Walking2:mixamorig:LeftHandIndex4
+    400026: Walking2:mixamorig:LeftHandMiddle1
+    400028: Walking2:mixamorig:LeftHandMiddle2
+    400030: Walking2:mixamorig:LeftHandMiddle3
+    400032: Walking2:mixamorig:LeftHandMiddle4
+    400034: Walking2:mixamorig:LeftHandPinky1
+    400036: Walking2:mixamorig:LeftHandPinky2
+    400038: Walking2:mixamorig:LeftHandPinky3
+    400040: Walking2:mixamorig:LeftHandPinky4
+    400042: Walking2:mixamorig:LeftHandRing1
+    400044: Walking2:mixamorig:LeftHandRing2
+    400046: Walking2:mixamorig:LeftHandRing3
+    400048: Walking2:mixamorig:LeftHandRing4
+    400050: Walking2:mixamorig:LeftHandThumb1
+    400052: Walking2:mixamorig:LeftHandThumb2
+    400054: Walking2:mixamorig:LeftHandThumb3
+    400056: Walking2:mixamorig:LeftHandThumb4
+    400058: Walking2:mixamorig:LeftLeg
+    400060: Walking2:mixamorig:LeftShoulder
+    400062: Walking2:mixamorig:LeftToe_End
+    400064: Walking2:mixamorig:LeftToeBase
+    400066: Walking2:mixamorig:LeftUpLeg
+    400068: Walking2:mixamorig:Neck
+    400070: Walking2:mixamorig:RightArm
+    400072: Walking2:mixamorig:RightFoot
+    400074: Walking2:mixamorig:RightForeArm
+    400076: Walking2:mixamorig:RightHand
+    400078: Walking2:mixamorig:RightHandIndex1
+    400080: Walking2:mixamorig:RightHandIndex2
+    400082: Walking2:mixamorig:RightHandIndex3
+    400084: Walking2:mixamorig:RightHandIndex4
+    400086: Walking2:mixamorig:RightHandMiddle1
+    400088: Walking2:mixamorig:RightHandMiddle2
+    400090: Walking2:mixamorig:RightHandMiddle3
+    400092: Walking2:mixamorig:RightHandMiddle4
+    400094: Walking2:mixamorig:RightHandPinky1
+    400096: Walking2:mixamorig:RightHandPinky2
+    400098: Walking2:mixamorig:RightHandPinky3
+    400100: Walking2:mixamorig:RightHandPinky4
+    400102: Walking2:mixamorig:RightHandRing1
+    400104: Walking2:mixamorig:RightHandRing2
+    400106: Walking2:mixamorig:RightHandRing3
+    400108: Walking2:mixamorig:RightHandRing4
+    400110: Walking2:mixamorig:RightHandThumb1
+    400112: Walking2:mixamorig:RightHandThumb2
+    400114: Walking2:mixamorig:RightHandThumb3
+    400116: Walking2:mixamorig:RightHandThumb4
+    400118: Walking2:mixamorig:RightLeg
+    400120: Walking2:mixamorig:RightShoulder
+    400122: Walking2:mixamorig:RightToe_End
+    400124: Walking2:mixamorig:RightToeBase
+    400126: Walking2:mixamorig:RightUpLeg
+    400128: Walking2:mixamorig:Spine
+    400130: Walking2:mixamorig:Spine1
+    400132: Walking2:mixamorig:Spine2
+    400134: Walking2:Olhos2
+    4300000: Walking2:Corpo_Adana
+    4300002: Walking2:Olhos2
+    7400000: Walk
+    9500000: //RootNode
+    13700000: Walking2:Corpo_Adana
+    13700002: Walking2:Olhos2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Walking2:Corpo_Adana
+        weight: 1
+      - path: Walking2:Corpo_Adana/Walking2:Olhos2
+        weight: 1
+      - path: Walking2:mixamorig:Hips
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:LeftUpLeg
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:LeftUpLeg/Walking2:mixamorig:LeftLeg
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:LeftUpLeg/Walking2:mixamorig:LeftLeg/Walking2:mixamorig:LeftFoot
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:LeftUpLeg/Walking2:mixamorig:LeftLeg/Walking2:mixamorig:LeftFoot/Walking2:mixamorig:LeftToeBase
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:LeftUpLeg/Walking2:mixamorig:LeftLeg/Walking2:mixamorig:LeftFoot/Walking2:mixamorig:LeftToeBase/Walking2:mixamorig:LeftToe_End
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:RightUpLeg
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:RightUpLeg/Walking2:mixamorig:RightLeg
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:RightUpLeg/Walking2:mixamorig:RightLeg/Walking2:mixamorig:RightFoot
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:RightUpLeg/Walking2:mixamorig:RightLeg/Walking2:mixamorig:RightFoot/Walking2:mixamorig:RightToeBase
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:RightUpLeg/Walking2:mixamorig:RightLeg/Walking2:mixamorig:RightFoot/Walking2:mixamorig:RightToeBase/Walking2:mixamorig:RightToe_End
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandIndex1
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandIndex1/Walking2:mixamorig:LeftHandIndex2
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandIndex1/Walking2:mixamorig:LeftHandIndex2/Walking2:mixamorig:LeftHandIndex3
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandIndex1/Walking2:mixamorig:LeftHandIndex2/Walking2:mixamorig:LeftHandIndex3/Walking2:mixamorig:LeftHandIndex4
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandMiddle1
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandMiddle1/Walking2:mixamorig:LeftHandMiddle2
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandMiddle1/Walking2:mixamorig:LeftHandMiddle2/Walking2:mixamorig:LeftHandMiddle3
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandMiddle1/Walking2:mixamorig:LeftHandMiddle2/Walking2:mixamorig:LeftHandMiddle3/Walking2:mixamorig:LeftHandMiddle4
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandPinky1
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandPinky1/Walking2:mixamorig:LeftHandPinky2
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandPinky1/Walking2:mixamorig:LeftHandPinky2/Walking2:mixamorig:LeftHandPinky3
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandPinky1/Walking2:mixamorig:LeftHandPinky2/Walking2:mixamorig:LeftHandPinky3/Walking2:mixamorig:LeftHandPinky4
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandRing1
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandRing1/Walking2:mixamorig:LeftHandRing2
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandRing1/Walking2:mixamorig:LeftHandRing2/Walking2:mixamorig:LeftHandRing3
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandRing1/Walking2:mixamorig:LeftHandRing2/Walking2:mixamorig:LeftHandRing3/Walking2:mixamorig:LeftHandRing4
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandThumb1
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandThumb1/Walking2:mixamorig:LeftHandThumb2
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandThumb1/Walking2:mixamorig:LeftHandThumb2/Walking2:mixamorig:LeftHandThumb3
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:LeftShoulder/Walking2:mixamorig:LeftArm/Walking2:mixamorig:LeftForeArm/Walking2:mixamorig:LeftHand/Walking2:mixamorig:LeftHandThumb1/Walking2:mixamorig:LeftHandThumb2/Walking2:mixamorig:LeftHandThumb3/Walking2:mixamorig:LeftHandThumb4
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:Neck
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:Neck/Walking2:mixamorig:Head
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:Neck/Walking2:mixamorig:Head/Walking2:mixamorig:HeadTop_End
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandIndex1
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandIndex1/Walking2:mixamorig:RightHandIndex2
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandIndex1/Walking2:mixamorig:RightHandIndex2/Walking2:mixamorig:RightHandIndex3
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandIndex1/Walking2:mixamorig:RightHandIndex2/Walking2:mixamorig:RightHandIndex3/Walking2:mixamorig:RightHandIndex4
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandMiddle1
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandMiddle1/Walking2:mixamorig:RightHandMiddle2
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandMiddle1/Walking2:mixamorig:RightHandMiddle2/Walking2:mixamorig:RightHandMiddle3
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandMiddle1/Walking2:mixamorig:RightHandMiddle2/Walking2:mixamorig:RightHandMiddle3/Walking2:mixamorig:RightHandMiddle4
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandPinky1
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandPinky1/Walking2:mixamorig:RightHandPinky2
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandPinky1/Walking2:mixamorig:RightHandPinky2/Walking2:mixamorig:RightHandPinky3
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandPinky1/Walking2:mixamorig:RightHandPinky2/Walking2:mixamorig:RightHandPinky3/Walking2:mixamorig:RightHandPinky4
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandRing1
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandRing1/Walking2:mixamorig:RightHandRing2
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandRing1/Walking2:mixamorig:RightHandRing2/Walking2:mixamorig:RightHandRing3
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandRing1/Walking2:mixamorig:RightHandRing2/Walking2:mixamorig:RightHandRing3/Walking2:mixamorig:RightHandRing4
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandThumb1
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandThumb1/Walking2:mixamorig:RightHandThumb2
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandThumb1/Walking2:mixamorig:RightHandThumb2/Walking2:mixamorig:RightHandThumb3
+        weight: 1
+      - path: Walking2:mixamorig:Hips/Walking2:mixamorig:Spine/Walking2:mixamorig:Spine1/Walking2:mixamorig:Spine2/Walking2:mixamorig:RightShoulder/Walking2:mixamorig:RightArm/Walking2:mixamorig:RightForeArm/Walking2:mixamorig:RightHand/Walking2:mixamorig:RightHandThumb1/Walking2:mixamorig:RightHandThumb2/Walking2:mixamorig:RightHandThumb3/Walking2:mixamorig:RightHandThumb4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
